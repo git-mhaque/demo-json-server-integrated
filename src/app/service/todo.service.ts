@@ -3,7 +3,7 @@ import { Http } from '@angular/http';
 
 @Injectable()
 export class TodoService {
-    private readonly url = '/tasks';
+    private readonly url = '/api/tasks';
 
     constructor(private http: Http) {
     }
