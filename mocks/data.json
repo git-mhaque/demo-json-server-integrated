@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "title": "Call Mom",
+      "isCompleted": true,
+      "id": 1
+    },
+    {
+      "title": "Invite friends",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "title": "Book ticket",
+      "isCompleted": false,
+      "id": 3
+    }
+  ]
+}
